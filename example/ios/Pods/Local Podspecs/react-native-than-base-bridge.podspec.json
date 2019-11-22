@@ -1,0 +1,29 @@
+{
+  "name": "react-native-than-base-bridge",
+  "version": "1.0.0",
+  "summary": "TODO",
+  "description": "react-native-than-base-bridge",
+  "homepage": "https://github.com/github_account/react-native-than-base-bridge",
+  "license": "MIT",
+  "authors": {
+    "thannvph03341": "thannvph03341@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/github_account/react-native-than-base-bridge.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "AFNetworking": [
+      "~> 3.0"
+    ]
+  }
+}

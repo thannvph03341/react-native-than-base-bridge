@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':react-native-than-base-bridge'
+project(':react-native-than-base-bridge').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-than-base-bridge/android')
+
+include ':app'
